@@ -22,7 +22,7 @@
 
 ![valve_preview_244](/preview/valve_preview_244.png)
 
-![valve_preview_600](/preview/valve_preview_600.png)
+![valve_preview_622](/preview/valve_preview_622.png)
 
 ![valve_preview_439](/preview/valve_preview_439.png)
 
