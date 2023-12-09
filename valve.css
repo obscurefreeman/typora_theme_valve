@@ -1,6 +1,6 @@
-@import "lambda/lambda.dark.css";
-@import "lambda/codeblock.dark.css";
-@import "lambda/sourcemode.dark.css";
+@import "valve/mermaid.dark.css";
+@import "valve/codeblock.dark.css";
+@import "valve/sourcemode.dark.css";
 
 :root {
     --bg-color:  #3c3d38;
@@ -359,7 +359,7 @@ pre.md-fences {
 
 .enable-diagrams pre.md-fences[lang="sequence"] .code-tooltip,
 .enable-diagrams pre.md-fences[lang="flow"] .code-tooltip,
-.enable-diagrams pre.md-fences[lang="lambda"] .code-tooltip {
+.enable-diagrams pre.md-fences[lang="mermaid"] .code-tooltip {
     bottom: -2.2em;
     right: 4px;
 }
@@ -739,6 +739,13 @@ footer {
 
 .megamenu-menu-panel tbody tr:hover td:nth-child(1) {
     color: white;
+}
+
+/* .megamenu-menu-sidebar tbody tr:hover td:nth-child(1) {
+    background-color: rgb(0, 0, 0);
+} */
+.megamenu-menu {
+    background-color: #4d4b43
 }
 
 .modal-footer .btn-default, 
